@@ -9,6 +9,7 @@ Anaconda - Python 3.7
 ### Step1:
 <br>
 Import the required packages for further process.
+
 ### Step2:
 <br>
 Read the image and convert the bgr image to gray scale image.

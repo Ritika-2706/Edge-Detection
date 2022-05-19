@@ -32,7 +32,7 @@ Display the filtered image using plot and imshow.
 
 import cv2
 import matplotlib.pyplot as plt
-image=cv2.imread("stark.jpg")
+image=cv2.imread("dogs.jpeg")
 
 # Load the image, Convert to grayscale and remove noise
 
